@@ -1,0 +1,47 @@
+@import url("href=https://fonts.googleapis.com/css2?family=Libre+Bodoni&family=Montserrat:wght@100&display=swap") ;
+
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/Banner.css") ;
+@import url("Components/card.css") ;
+
+body { 
+
+font-family: 'Libre Bodoni', serif;
+font size: 18px;
+margin: 0px;
+background-repeat: no-repeat;
+background-size: cover;
+ }
+
+
+ p {
+ 	font-family: 'Montserrat', sans-serif;
+ }
+
+ a{
+ 	text-decoration: none;
+ }
+h2{
+	text-align: center;
+  color: antiquewhite;
+}
+h1 {
+  text-align: center;
+  color: ghostwhite;
+}
+
+h3 {
+  font-family: 'copperplate', serif;
+font-size: 15px;
+}
+#link{
+  font-family:'Montserrat', sans-serif;
+  color: navajowhite ;
+}
+#link:hover, h3:hover {
+  background-color: deepskyblue;
+}
+
+
